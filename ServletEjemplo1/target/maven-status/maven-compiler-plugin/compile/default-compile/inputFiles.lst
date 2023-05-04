@@ -1,0 +1,13 @@
+D:\Web\ServletEjemplo1\src\main\java\co\edu\uceva\util\ConexionBaseDatos.java
+D:\Web\ServletEjemplo1\src\main\java\co\edu\uceva\servlets\ArticulosListServlet.java
+D:\Web\ServletEjemplo1\src\main\java\co\edu\uceva\servlets\CabecerasHttpRequestServlet.java
+D:\Web\ServletEjemplo1\src\main\java\co\edu\uceva\model\Empleado.java
+D:\Web\ServletEjemplo1\src\main\java\co\edu\uceva\service\ArticuloService.java
+D:\Web\ServletEjemplo1\src\main\java\co\edu\uceva\repository\EmpleadoRepository.java
+D:\Web\ServletEjemplo1\src\main\java\co\edu\uceva\model\Articulo.java
+D:\Web\ServletEjemplo1\src\main\java\co\edu\uceva\servlets\EmpleadoListServlet.java
+D:\Web\ServletEjemplo1\src\main\java\co\edu\uceva\repository\IRepository.java
+D:\Web\ServletEjemplo1\src\main\java\co\edu\uceva\service\IService.java
+D:\Web\ServletEjemplo1\src\main\java\co\edu\uceva\servlets\HolaMundoServlet.java
+D:\Web\ServletEjemplo1\src\main\java\co\edu\uceva\service\EmpleadoService.java
+D:\Web\ServletEjemplo1\src\main\java\co\edu\uceva\servlets\LoginServlet.java

@@ -1,0 +1,13 @@
+co\edu\uceva\servlets\ArticulosListServlet.class
+co\edu\uceva\servlets\HolaMundoServlet.class
+co\edu\uceva\util\ConexionBaseDatos.class
+co\edu\uceva\repository\IRepository.class
+co\edu\uceva\service\EmpleadoService.class
+co\edu\uceva\model\Articulo.class
+co\edu\uceva\servlets\EmpleadoListServlet.class
+co\edu\uceva\servlets\CabecerasHttpRequestServlet.class
+co\edu\uceva\repository\EmpleadoRepository.class
+co\edu\uceva\servlets\LoginServlet.class
+co\edu\uceva\service\IService.class
+co\edu\uceva\service\ArticuloService.class
+co\edu\uceva\model\Empleado.class
